@@ -1,0 +1,72 @@
+
+***  EXCELLON DRILL FILE GENERATION  ***
+
+Drill file for drawing: PA I-O Board.ipf
+
+
+***  Drill file settings
+
+Coord format   : NN.DDDDD
+Units          : INCHES
+                 (Absolute)
+Leading zero's : OFF
+Expanded mode  : OFF
+Start string   : %
+End string     : M00
+Output format  : ISO (ASCII)
+
+
+***  Drill files / layer pairs
+
+     File            Layers          Via's
+     .d0  :        TOP .. BOTTOM     ( 31)
+
+
+***  Drill diameter table. File: PA I-O Board.ipf.d0
+
+     Tool       Diam      Holes
+       1     23.33 Mil      31
+       2     35.00 Mil      20
+       3     39.17 Mil       3
+       4     51.67 Mil       1
+       5     59.17 Mil       4
+       6     63.33 Mil       2
+       7     67.50 Mil       4
+       8    138.33 Mil       6
+
+
+***  EXCELLON DRILL FILE GENERATION  ***
+
+Drill file for drawing: PA I-O Board_09_21.ipf
+
+
+***  Drill file settings
+
+Coord format   : NN.DDDDD
+Units          : INCHES
+                 (Absolute)
+Leading zero's : OFF
+Expanded mode  : OFF
+Start string   : %
+End string     : M00
+Output format  : ISO (ASCII)
+
+
+***  Drill files / layer pairs
+
+     File            Layers          Via's
+     .d0  :        TOP .. BOTTOM     ( 32)
+
+
+***  Drill diameter table. File: PA I-O Board_09_21.ipf.d0
+
+     Tool       Diam      Holes
+       1     23.33 Mil      32
+       2     35.00 Mil      20
+       3     39.17 Mil       3
+       4     51.67 Mil       1
+       5     59.17 Mil       4
+       6     63.33 Mil       2
+       7     67.50 Mil       4
+       8    138.33 Mil       6
+
